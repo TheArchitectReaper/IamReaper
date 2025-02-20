@@ -1,4 +1,5 @@
-CISSP, CASP+, CCSP, CPT, CEH, CCDE, CCIE, CCNP, CCNA, CCENT, OSCP
+CISSP, CASP+, CCSP, CPT, CEH, CCDE, CCIE, CCNP, CCNA, CCENT 
+OSWP, OSWE, CEPT, PNPT, CEH, CRTE, OSCE, OSCP, OSED
 
 CyberSecurity Engineering Architect, Network Engineering Architect, Data Center Architect, Grey Hat Hacker
 
